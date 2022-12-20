@@ -134,3 +134,9 @@ All the results from local run can be found [here](https://github.ncsu.edu/agupt
 * Since the data samples are very less, we need to run an extremely high amount of epochs to actually the fit the model, which results in overfitting.
 * Thus, more real world data needs to be captured to perform a more effective and relevant analysis.
 * Also, here the process of effort estimation is ending with the initial product development, and can be further extended to include maintenance.
+
+## Collaborators
+
+* [Akash Gupta](https://github.com/agupta15k)
+* [Arun Srinivasan Parthasarathy](https://github.com/Arunsp2000)
+* [Vishwesh Sangarya](https://github.com/vsangarya)
